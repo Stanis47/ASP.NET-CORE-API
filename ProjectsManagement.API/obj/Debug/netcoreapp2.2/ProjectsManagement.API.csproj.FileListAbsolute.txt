@@ -1,0 +1,14 @@
+C:\Users\Stanis\source\repos\ProjectsManagement\ProjectsManagement.API\bin\Debug\netcoreapp2.2\ProjectsManagement.API.deps.json
+C:\Users\Stanis\source\repos\ProjectsManagement\ProjectsManagement.API\bin\Debug\netcoreapp2.2\ProjectsManagement.API.runtimeconfig.json
+C:\Users\Stanis\source\repos\ProjectsManagement\ProjectsManagement.API\bin\Debug\netcoreapp2.2\ProjectsManagement.API.runtimeconfig.dev.json
+C:\Users\Stanis\source\repos\ProjectsManagement\ProjectsManagement.API\bin\Debug\netcoreapp2.2\ProjectsManagement.API.dll
+C:\Users\Stanis\source\repos\ProjectsManagement\ProjectsManagement.API\obj\Debug\netcoreapp2.2\ProjectsManagement.API.csprojAssemblyReference.cache
+C:\Users\Stanis\source\repos\ProjectsManagement\ProjectsManagement.API\obj\Debug\netcoreapp2.2\ProjectsManagement.API.csproj.CoreCompileInputs.cache
+C:\Users\Stanis\source\repos\ProjectsManagement\ProjectsManagement.API\obj\Debug\netcoreapp2.2\ProjectsManagement.API.RazorAssemblyInfo.cache
+C:\Users\Stanis\source\repos\ProjectsManagement\ProjectsManagement.API\obj\Debug\netcoreapp2.2\ProjectsManagement.API.RazorAssemblyInfo.cs
+C:\Users\Stanis\source\repos\ProjectsManagement\ProjectsManagement.API\obj\Debug\netcoreapp2.2\ProjectsManagement.API.AssemblyInfoInputs.cache
+C:\Users\Stanis\source\repos\ProjectsManagement\ProjectsManagement.API\obj\Debug\netcoreapp2.2\ProjectsManagement.API.AssemblyInfo.cs
+C:\Users\Stanis\source\repos\ProjectsManagement\ProjectsManagement.API\obj\Debug\netcoreapp2.2\ProjectsManagement.API.RazorTargetAssemblyInfo.cache
+C:\Users\Stanis\source\repos\ProjectsManagement\ProjectsManagement.API\bin\Debug\netcoreapp2.2\ProjectsManagement.API.pdb
+C:\Users\Stanis\source\repos\ProjectsManagement\ProjectsManagement.API\obj\Debug\netcoreapp2.2\ProjectsManagement.API.dll
+C:\Users\Stanis\source\repos\ProjectsManagement\ProjectsManagement.API\obj\Debug\netcoreapp2.2\ProjectsManagement.API.pdb
